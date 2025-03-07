@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### 6. Deactivate Virtual environment
+### 6. Deactivate Virtual environment, when you are done working on the project
 ```bash
 deactivate
 ```
