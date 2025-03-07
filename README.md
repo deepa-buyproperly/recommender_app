@@ -25,11 +25,6 @@ source myenv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-### 4. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### 5. Start Application
 ```bash
 python main.py
