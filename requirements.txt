@@ -1,3 +1,4 @@
+pip==24.2
 fastapi==0.115.8
 uvicorn==0.34.0
 scikit-learn==1.5.1
